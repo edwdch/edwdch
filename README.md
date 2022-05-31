@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Edward Chen
 
-- 🔭 I’m currently working on Deep learning.
+- 🌱 I’m currently learning **Deep learning**
 
 ---
 
